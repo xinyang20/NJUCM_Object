@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="本章用到的四种数据库的连接器">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/本章用到的四种数据库的连接器/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/本章用到的四种数据库的连接器/mysql-connector-java-8.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/本章用到的四种数据库的连接器/sqljdbc42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/本章用到的四种数据库的连接器/Access_JDBC30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

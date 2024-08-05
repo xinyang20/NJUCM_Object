@@ -9,6 +9,7 @@ public class MainWindow extends JFrame {
         super(name);
         init();
         setBounds(300,400,450,410);
+//        pack();
         setLayout(new FlowLayout(FlowLayout.LEFT));
         setResizable(false);
         setVisible(true);
