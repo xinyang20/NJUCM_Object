@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20240226/20240226.iml" filepath="$PROJECT_DIR$/20240226/20240226.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240329/20240329.iml" filepath="$PROJECT_DIR$/20240329/20240329.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240412/20240412.iml" filepath="$PROJECT_DIR$/20240412/20240412.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240419/20240419.iml" filepath="$PROJECT_DIR$/20240419/20240419.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240308/2_2/2_2.iml" filepath="$PROJECT_DIR$/20240308/2_2/2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240308/2_3/2_3.iml" filepath="$PROJECT_DIR$/20240308/2_3/2_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240308/3_1/3_1.iml" filepath="$PROJECT_DIR$/20240308/3_1/3_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240315/3_1/3_11.iml" filepath="$PROJECT_DIR$/20240315/3_1/3_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240308/3_2/3_2.iml" filepath="$PROJECT_DIR$/20240308/3_2/3_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240322/4_2/4_2.iml" filepath="$PROJECT_DIR$/20240322/4_2/4_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240322/4_3/4_3.iml" filepath="$PROJECT_DIR$/20240322/4_3/4_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240322/4_4/4_4.iml" filepath="$PROJECT_DIR$/20240322/4_4/4_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240407/5_1/5_1.iml" filepath="$PROJECT_DIR$/20240407/5_1/5_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240407/5_2/5_2.iml" filepath="$PROJECT_DIR$/20240407/5_2/5_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240407/5_3/5_3.iml" filepath="$PROJECT_DIR$/20240407/5_3/5_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240407/6_1/6_1.iml" filepath="$PROJECT_DIR$/20240407/6_1/6_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240407/6_2/6_2.iml" filepath="$PROJECT_DIR$/20240407/6_2/6_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240407/6_3/6_3.iml" filepath="$PROJECT_DIR$/20240407/6_3/6_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240315/Area/Area.iml" filepath="$PROJECT_DIR$/20240315/Area/Area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240315/Bank/Bank.iml" filepath="$PROJECT_DIR$/20240315/Bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240322/Book2/Book2.iml" filepath="$PROJECT_DIR$/20240322/Book2/Book2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240308/Book3/Book3.iml" filepath="$PROJECT_DIR$/20240308/Book3/Book3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240308/Book5/Book5.iml" filepath="$PROJECT_DIR$/20240308/Book5/Book5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240308/Book7/Book7.iml" filepath="$PROJECT_DIR$/20240308/Book7/Book7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach/Mine_Sweeper/Mine_Sweeper.iml" filepath="$PROJECT_DIR$/teach/Mine_Sweeper/Mine_Sweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NJUCM_object.iml" filepath="$PROJECT_DIR$/.idea/NJUCM_object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240315/Phone/Phone.iml" filepath="$PROJECT_DIR$/20240315/Phone/Phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240315/Radio/Radio.iml" filepath="$PROJECT_DIR$/20240315/Radio/Radio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing_Learn/Swing_Learn.iml" filepath="$PROJECT_DIR$/Swing_Learn/Swing_Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240511/_1/_1.iml" filepath="$PROJECT_DIR$/20240511/_1/_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240426/_10_1/_10_1.iml" filepath="$PROJECT_DIR$/20240426/_10_1/_10_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240426/_10_2/_10_2.iml" filepath="$PROJECT_DIR$/20240426/_10_2/_10_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240510/_1/_11.iml" filepath="$PROJECT_DIR$/20240510/_1/_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240426/_11_1/_11_1.iml" filepath="$PROJECT_DIR$/20240426/_11_1/_11_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240426/_11_2/_11_2.iml" filepath="$PROJECT_DIR$/20240426/_11_2/_11_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240511/_2/_2.iml" filepath="$PROJECT_DIR$/20240511/_2/_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240510/_2/_21.iml" filepath="$PROJECT_DIR$/20240510/_2/_21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach/_240418/_240418.iml" filepath="$PROJECT_DIR$/teach/_240418/_240418.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach/_240420/_240420.iml" filepath="$PROJECT_DIR$/teach/_240420/_240420.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach/_240605/_240605.iml" filepath="$PROJECT_DIR$/teach/_240605/_240605.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach/_240606/_240606.iml" filepath="$PROJECT_DIR$/teach/_240606/_240606.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach/_240607/_240607.iml" filepath="$PROJECT_DIR$/teach/_240607/_240607.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240511/_3/_3.iml" filepath="$PROJECT_DIR$/20240511/_3/_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240510/_3/_31.iml" filepath="$PROJECT_DIR$/20240510/_3/_31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240412/_7_1/_7_1.iml" filepath="$PROJECT_DIR$/20240412/_7_1/_7_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240412/_7_2/_7_2.iml" filepath="$PROJECT_DIR$/20240412/_7_2/_7_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14/ch14.iml" filepath="$PROJECT_DIR$/ch14/ch14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teach/teach.iml" filepath="$PROJECT_DIR$/teach/teach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/期中/test1/test1.iml" filepath="$PROJECT_DIR$/期中/test1/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/期中/test2/test2.iml" filepath="$PROJECT_DIR$/期中/test2/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240301/实践1/实践1.iml" filepath="$PROJECT_DIR$/20240301/实践1/实践1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20240301/实践2/实践2.iml" filepath="$PROJECT_DIR$/20240301/实践2/实践2.iml" />
+    </modules>
+  </component>
+</project>

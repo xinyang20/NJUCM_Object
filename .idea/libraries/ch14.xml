@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ch14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ch14/out/production/ch14/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ch14/out/production/ch14/mysql-connector-java-8.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ch14/out/production/ch14/Access_JDBC30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
